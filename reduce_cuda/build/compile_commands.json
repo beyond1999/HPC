@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/root/project/reduce_cuda/build",
+  "command": "/usr/bin/nvcc -forward-unknown-to-host-compiler -g --generate-code=arch=compute_52,code=[compute_52,sm_52] -G -x cu -c /root/project/reduce_cuda/1_cuda_reduce_study/my_reduce_v0_global_memory.cu -o 1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o",
+  "file": "/root/project/reduce_cuda/1_cuda_reduce_study/my_reduce_v0_global_memory.cu"
+}
+]

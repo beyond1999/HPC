@@ -1,0 +1,5 @@
+/root/project/reduce_cuda/build/CMakeFiles/edit_cache.dir
+/root/project/reduce_cuda/build/CMakeFiles/rebuild_cache.dir
+/root/project/reduce_cuda/build/1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir
+/root/project/reduce_cuda/build/1_cuda_reduce_study/CMakeFiles/edit_cache.dir
+/root/project/reduce_cuda/build/1_cuda_reduce_study/CMakeFiles/rebuild_cache.dir

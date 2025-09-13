@@ -1,0 +1,7 @@
+# ninja log v5
+0	472	1757747114170748700	1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o	bebe38c42aacb6d1
+472	581	1757747114282936921	1_cuda_reduce_study/my_reduce_v0_global_memory	8501539117c94246
+1	512	1757747129604869604	1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o	bebe38c42aacb6d1
+512	644	1757747129736689056	1_cuda_reduce_study/my_reduce_v0_global_memory	8501539117c94246
+1	740	1757749389080795337	1_cuda_reduce_study/CMakeFiles/my_reduce_v0_global_memory.dir/my_reduce_v0_global_memory.cu.o	bebe38c42aacb6d1
+740	859	1757749389200795362	1_cuda_reduce_study/my_reduce_v0_global_memory	8501539117c94246
