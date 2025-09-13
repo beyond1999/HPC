@@ -1,0 +1,94 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "1_cuda_reduce_study",
+					"jsonFile" : "directory-1_cuda_reduce_study-Debug-01e6d9af593f83b5a8bb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "1_cuda_reduce_study",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "reduce_cuda",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "my_reduce_v0_global_memory::@214aa2a4a787257b8b5d",
+					"jsonFile" : "target-my_reduce_v0_global_memory-Debug-b92f43c79be3e8aa3301.json",
+					"name" : "my_reduce_v0_global_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_reduce_v1_shared_memory::@214aa2a4a787257b8b5d",
+					"jsonFile" : "target-my_reduce_v1_shared_memory-Debug-fcce5a60b81ea86f78b2.json",
+					"name" : "my_reduce_v1_shared_memory",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "my_reduce_v2_divergence_branch::@214aa2a4a787257b8b5d",
+					"jsonFile" : "target-my_reduce_v2_divergence_branch-Debug-dff1e692ca3953d97693.json",
+					"name" : "my_reduce_v2_divergence_branch",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/root/project/reduce_cuda/build",
+		"source" : "/root/project/reduce_cuda"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
