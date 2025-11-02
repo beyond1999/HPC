@@ -6,7 +6,6 @@
 #define RAY_TRACING_COLOR_H
 
 #include "vec3.h"
-#include <iostream>
 
 #include "ray.h"
 
